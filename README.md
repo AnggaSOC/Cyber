@@ -1,4 +1,6 @@
-# Cybersecurity Projetcs 
+# Cybersecurity Practitioner
+
+System security and awareness must always be improved. I'm interested in and always learning about cybersecurity and anything related to technology
 
 # Technical Skills 
 
