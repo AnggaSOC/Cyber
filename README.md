@@ -32,4 +32,4 @@
 - Incident Response Investigation
 - IDS integration with SIEM
 
-  <a href="https://example.com"><kbd>View Detail</kbd></a>
+  <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security"><kbd>View Detail</kbd></a>
