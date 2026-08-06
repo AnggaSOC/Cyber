@@ -2,32 +2,21 @@
 
 **1. Email Phishing Analysis**
 
-  **Responsibility**
+  * **Responsibility** : Identifying and analyzing malicious content in phishing emails targeting employees and company executives: fraudulent emails, malicious files, etc.
 
-  Identifying and analyzing malicious content in phishing emails targeting employees and company executives: fraudulent emails, malicious files, etc.
-  
-  **Tools**
-
-  Internet browser, VirusTotal, Kali Linux terminal 
-  
-  **Findings**
-
-  Phishing emails targeting employees and company executives differ in their approach—in terms of tactics, methods, and objectives.
+  * **Tools** : Internet browser, VirusTotal, Kali Linux terminal
+    
+  * **Findings** : Phishing emails targeting employees and company executives differ in their approach—in terms of tactics, methods, and objectives.
 
   <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Email%20Phishing%20Analysis"><kbd>View Detail</kbd></a>
 
 **2. Splunk: Incident Investigation**
 
-  **Responsibility**
-
-  Investigating the timeline of a website hacking incident: affected assets, attackers, techniques, points of entry, etc.
+  * **Responsibility** : Investigating the timeline of a website hacking incident: affected assets, attackers, techniques, points of entry, etc.
   
-  **Tools**
-
-  Splunk Enterprise 
+  * **Tools** : Splunk Enterprise
   
-  **Findings**
+  * **Findings** : Wayne Enterprise was hit by a cyberattack; the “iamreallynotbatman” website was compromised. The incident timeline was successfully mapped using the cyber kill chain method, and all relevant evidence was identified.
 
-  Wayne Enterprise was hit by a cyberattack; the “iamreallynotbatman” website was compromised. The incident timeline was successfully mapped using the cyber kill chain method, and all relevant evidence was identified.
   <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Email%20Phishing%20Analysis"><kbd>View Detail</kbd></a>
 
