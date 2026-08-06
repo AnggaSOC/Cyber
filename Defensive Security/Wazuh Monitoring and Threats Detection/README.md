@@ -1,4 +1,4 @@
-# SOC Lab: End-to-End Threat Detection & Incident Response with Wazuh SIEM and Suricata
+# Threat Detection & Incident Response with Wazuh SIEM and Suricata
 ![wazuh](images.png)
 
 ## Project Overview
