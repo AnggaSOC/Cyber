@@ -35,3 +35,12 @@ System security and awareness must always be improved. I'm interested in and alw
 - IDS integration with SIEM
 
   <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security"><kbd>View Detail</kbd></a>
+
+**Offensive Security**
+- Network Security
+- SQL Injection Attack
+- CommandLine Attack
+- Authentication Bypass
+- IDOR Vulnerebility
+- XSS Injection Attack
+- 
