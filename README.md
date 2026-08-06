@@ -24,3 +24,12 @@
 - Metasploit
 
 # Projects 
+
+**Devensive Security Projects**
+- Endpoint Monitoring & Threat Detection
+- Email Phishing Analysis
+- Automation Response System
+- Incident Response Investigation
+- IDS integration with SIEM
+
+  <a href="https://example.com"><kbd>View Detail</kbd></a>
