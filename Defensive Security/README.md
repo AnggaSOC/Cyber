@@ -14,3 +14,5 @@
 
   Phishing emails targeting employees and company executives differ in their approach—in terms of tactics, methods, and objectives.
 
+  <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security"><kbd>View Detail</kbd></a>
+
