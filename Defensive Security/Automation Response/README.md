@@ -4,7 +4,7 @@
 
 Monitoring endpoints (company servers) and automatically responding to attacks. This project is divided into separate cases. The following is an overview of the automation lab
 
-![main-workflow](Images/Main.png)
+![main-workflow](Images/Mainn.png)
 
 **SOC Automation Lab Environment**
 - Wazuh server (192.168.1.12)
