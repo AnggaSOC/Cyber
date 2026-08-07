@@ -20,3 +20,12 @@
 
   <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Email%20Phishing%20Analysis"><kbd>View Detail</kbd></a>
 
+**3.  Wazuh : Endpoint Monitoring and Threat Detection**
+
+  * **Responsibility** : Design and implement SIEM design to monitor and detect threats on endpoints, integrate SIEM with IDS
+  
+  * **Tools** : Wazuh, Suricata IDS, Linux Server
+  
+  * **Findings** : IDS successfully sends alerts when network scanning occurs from external parties, and Wazuh successfully records activity in important directories on the Linux server.
+
+  <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Email%20Phishing%20Analysis"><kbd>View Detail</kbd></a>
