@@ -28,4 +28,14 @@
   
   * **Findings** : IDS successfully sends alerts when network scanning occurs from external parties, and Wazuh successfully records activity in important directories on the Linux server.
 
-  <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Email%20Phishing%20Analysis"><kbd>View Detail</kbd></a>
+  <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Wazuh%20Monitoring%20and%20Threats%20Detection"><kbd>View Detail</kbd></a>
+
+**4.  Malware Detection with Splunk Enterprise and Sysmon**
+
+  * **Responsibility** : Install Sysmon on endpoint and integrate to Splunk Enterprise, monitor employee activity on endpoint
+  
+  * **Tools** : Splunk Enterprise, Windows 10, Windows 11
+  
+  * **Findings** : An employee's PC was infected with malware originating from the file 'Finance_Report2026' downloaded via Google Drive. The malware file contained a script to exfiltrate data on the infected PC. Company data was successfully stolen.
+
+  <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Wazuh%20Monitoring%20and%20Threats%20Detection"><kbd>View Detail</kbd></a>
