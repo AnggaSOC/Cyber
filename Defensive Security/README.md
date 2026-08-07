@@ -38,4 +38,14 @@
   
   * **Findings** : An employee's PC was infected with malware originating from the file 'Finance_Report2026' downloaded via Google Drive. The malware file contained a script to exfiltrate data on the infected PC. Company data was successfully stolen.
 
-  <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Wazuh%20Monitoring%20and%20Threats%20Detection"><kbd>View Detail</kbd></a>
+  <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Splunk%20and%20Sysmon%20Threats%20Detection"><kbd>View Detail</kbd></a>
+
+**5.  Automation Respon System**
+
+  * **Responsibility** : Design, implement, and integrate wazuh SIEM with shuffle automation to automate incident response.
+  
+  * **Tools** : Wazuh, Linux server, Windows 11, Kali Linux, Shuffle, Email, Jira
+  
+  * **Findings** : All incident responses are successfully automated with shuffle: blocking DoS-DDoS attacks, automatic response to malware, automatic incident ticket creation, and real-time email notifications to the incident response team.
+
+  <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Splunk%20and%20Sysmon%20Threats%20Detection"><kbd>View Detail</kbd></a>
