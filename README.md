@@ -24,6 +24,8 @@ System security and awareness must always be improved. I'm interested in and alw
 - Wireshark
 - Kali Linux
 - Metasploit
+- Wazuh
+- Splunk
 
 # Projects 
 
