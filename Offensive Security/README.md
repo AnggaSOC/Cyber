@@ -1,12 +1,12 @@
 # Offensive Security Projects 
 
-**1. Email Phishing Analysis**
+**1. Network Security : Nmap**
 
-  * **Responsibility** : Identifying and analyzing malicious content in phishing emails targeting employees and company executives: fraudulent emails, malicious files, etc.
+  * **Responsibility** : Perform a server network scan test and see what ports are open, what services are running, etc.
 
-  * **Tools** : Internet browser, VirusTotal, Kali Linux terminal
+  * **Tools** : Nmap
     
-  * **Findings** : Phishing emails targeting employees and company executives differ in their approach—in terms of tactics, methods, and objectives.
+  * **Findings** : The FTP service port is open. FTP login attempts fail, but this is a vulnerability worth noting. This vulnerability can be exploited by attackers if not immediately noticed.
 
   <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Email%20Phishing%20Analysis"><kbd>View Detail</kbd></a>
 
