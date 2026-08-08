@@ -10,7 +10,7 @@
 
   <a href="[https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Email%20Phishing%20Analysis](https://github.com/AnggaSOC/Cyber/blob/main/Offensive%20Security/Network%20Security/README.md)"><kbd>View Detail</kbd></a>
 
-**2. Authentication Bypass **
+**2. Authentication Bypass**
 
   * **Responsibility** : Bypassing authentication: Credential harvesting, Brute force attacks, password reset manipulation, etc.
   
