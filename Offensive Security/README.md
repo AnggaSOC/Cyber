@@ -10,12 +10,12 @@
 
   <a href="[https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Email%20Phishing%20Analysis](https://github.com/AnggaSOC/Cyber/blob/main/Offensive%20Security/Network%20Security/README.md)"><kbd>View Detail</kbd></a>
 
-**2. Splunk: Incident Investigation**
+**2. Authentication Bypass **
 
-  * **Responsibility** : Investigating the timeline of a website hacking incident: affected assets, attackers, techniques, points of entry, etc.
+  * **Responsibility** : Bypassing authentication: Credential harvesting, Brute force attacks, password reset manipulation, etc.
   
-  * **Tools** : Splunk Enterprise
-  
+  * **Tools** : Kali Linux terminal, Internet browser
+    
   * **Findings** : Wayne Enterprise was hit by a cyberattack; the “iamreallynotbatman” website was compromised. The incident timeline was successfully mapped using the cyber kill chain method, and all relevant evidence was identified.
 
   <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Email%20Phishing%20Analysis"><kbd>View Detail</kbd></a>
