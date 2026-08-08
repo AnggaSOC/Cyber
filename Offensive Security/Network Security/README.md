@@ -38,4 +38,5 @@ Severity Level : Medium-High
 
 **3. Remediation**
 
-Turn off unused services or change to an unusual port, for example 222, 223, etc.
+* Turn off unused services or change to an unusual port, for example 222, 223, etc.
+* Don't use FTP because it's not secure. Use something more secure like SFTP, FTPS, or SSH.
