@@ -36,5 +36,6 @@ Severity Level : Medium-High
 * Port 21,22: ftp & ssh open ports and potentially exploitable by attackers on the same network/if the IP address is known.
 * The login attempt failed, but if exploited further the attacker will get the login credentials, for example by brute force attack. Further exploitation is needed to obtain credentials by brute force.
 
-**Remediation**
-Turn off unused services or change to an unusual port, for example 222,223, etc.
+**3. Remediation**
+
+Turn off unused services or change to an unusual port, for example 222, 223, etc.
