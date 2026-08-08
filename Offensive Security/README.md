@@ -8,7 +8,7 @@
     
   * **Findings** : The FTP service port is open. FTP login attempts fail, but this is a vulnerability worth noting. This vulnerability can be exploited by attackers if not immediately noticed.
 
-  <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Email%20Phishing%20Analysis"><kbd>View Detail</kbd></a>
+  <a href="[https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security/Email%20Phishing%20Analysis](https://github.com/AnggaSOC/Cyber/blob/main/Offensive%20Security/Network%20Security/README.md)"><kbd>View Detail</kbd></a>
 
 **2. Splunk: Incident Investigation**
 
