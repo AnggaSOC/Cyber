@@ -32,7 +32,7 @@ Reset the password for username: robert. The system asks to enter a valid userna
 
 **2. Tampering with cookie -curl**
 
-![curl](Images/curl.png)
+![curl](Images/curl1.png)
 
 
 
