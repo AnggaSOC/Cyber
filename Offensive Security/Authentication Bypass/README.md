@@ -34,6 +34,16 @@ Reset the password for username: robert. The system asks to enter a valid userna
 
 ![curl](Images/curl1.png)
 
+Using cURL to tamper with data. Using session cookies and manipulating the destination email address for password resets.
+
+**3. Reset password link success 
+
+![reset](Images/done.png)
+
+![rpbert](Images/robert.png)
+
+
+
 
 
 
