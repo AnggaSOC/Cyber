@@ -43,16 +43,20 @@ Using cURL to tamper with data. Using session cookies and manipulating the desti
 The password reset link for username 'robert' has been successfully sent to the test email address.
 
 
-![rpbert](Images/robert.png)
+![robert](Images/robert.png)
 
 Successfully obtained Robert's account using a password reset manipulation method.
 
 # REPORT
 
-ID Report : ABP-090826
-Severity Level : High-Critical
-Risk : Account theft and hijacking
-Resource : MITRE ATT&ck T1078, T1539, T1098, T1003, T1563
+- ID Report : ABP-090826
+- Severity Level : High-Critical
+- Risk : Account theft and hijacking
+- Resource : MITRE ATT&ck T1078, T1539, T1098, T1003, T1563
+- Description : Authentication bypass testing
+- Findings :
+  * Eror M
+
 
 
 
