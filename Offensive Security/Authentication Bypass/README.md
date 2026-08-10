@@ -60,7 +60,8 @@ Successfully obtained Robert's account using a password reset manipulation metho
   * Manipulated password reset form: attackers can perform session tempering/hijacking to gain access.
 - Mitigation & Remediation :
   * Limit the number of failed logins: for example, if 10 failed attempts occur, the account will be suspended for a few minutes to prevent brute force attacks.
-  * Logical errors are more dangerous than technical vulnerabilities: errors in the design and implementation of business logic can be exploited by attackers to manipulate
+  * Logical errors are more dangerous than technical vulnerabilities: errors in the design and implementation of business logic can be exploited by attackers to manipulate login.
+  * Avoid system error messages that contain sensitive information.
 
 
 
