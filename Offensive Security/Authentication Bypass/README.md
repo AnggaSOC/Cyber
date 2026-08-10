@@ -55,7 +55,12 @@ Successfully obtained Robert's account using a password reset manipulation metho
 - Resource : MITRE ATT&ck T1078, T1539, T1098, T1003, T1563
 - Description : Authentication bypass testing
 - Findings :
-  * Eror M
+  * Error message vulnerability: notifying that a valid username has already been registered. This gives an attacker a loophole to determine the valid username.
+  * Application does not limit login error: attacker can brute force attack
+  * Manipulated password reset form: attackers can perform session tempering/hijacking to gain access.
+- Mitigation & Remediation :
+  * Limit the number of failed logins: for example, if 10 failed attempts occur, the account will be suspended for a few minutes to prevent brute force attacks.
+  * Logical errors are more dangerous than technical vulnerabilities: errors in the design and implementation of business logic can be exploited by attackers to manipulate
 
 
 
