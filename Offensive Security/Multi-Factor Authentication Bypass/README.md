@@ -25,4 +25,7 @@ The OTP code requirement can be bypassed by replacing the URL directly with `/da
 - Severity Level : Medium-High
 - Risk : Account takeover
 - Resource : Mitre ATT&CK T1111, T1556, T1556.006
-- 
+- Description : MFA Bypass
+- Findings :
+  * The browser can capture OTP codes that it shouldn't be able to capture. If the attacker knows the credentials, there’s no need to know the code sent to the email. It’s enough to view the code intercepted in the browser
+  * There is no verification code, and you can bypass it simply by changing the URL to `/dashboard` 
