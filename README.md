@@ -44,5 +44,5 @@ System security and awareness must always be improved. I'm interested in and alw
 - CommandLine Attack
 - Authentication Bypass
 - IDOR Vulnerebility
-- XSS Injection Attack
+- Multi-Factor Authentication Bypass
 - 
