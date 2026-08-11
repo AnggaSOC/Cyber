@@ -47,4 +47,4 @@ System security and awareness must always be improved. I'm interested in and alw
 - Multi-Factor Authentication Bypass
 - 
 
-  <a href="https://github.com/AnggaSOC/Cyber/tree/main/Defensive%20Security"><kbd>View Detail</kbd></a>
+  <a href="https://github.com/AnggaSOC/Cyber/tree/main/Offensive%20Security"><kbd>View Detail</kbd></a>
