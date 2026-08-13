@@ -5,7 +5,7 @@ Testing for cross-site scripting (XSS) vulnerabilities in the customer support t
 
 ## RESULT
 
-**1. BB**
+**1. Inject with Javascript Code**
 
 ![xss](Image/BURP1.png)
 
