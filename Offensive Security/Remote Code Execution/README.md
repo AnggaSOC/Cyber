@@ -34,4 +34,12 @@ The system or server can be fully controlled (RCE). This vulnerability falls und
   - The system accepts all user input without restrictions. As a result, users can upload files containing malicious code.
   - The system does not rename files uploaded by users. Therefore, users simply have to guess the directory where the files are stored.
   - The system allows files to be executed due to poor system design: it allows system commands such as exec(), shell_exec(), etc.
-  - 
+  - The user successfully ran the command `whoami: www-data`.
+  - If further exploitation occurs, user privilege escalation may result. This falls under category number 1 of the OWASP Top 10: A01—Broken Access Control
+  - The system successfully sent a reverse shell to the attacker.
+* Remediation :
+  - Restrict all user input: allow only the required file extensions. Block the following file extensions: .php, .exe, .sh, etc.
+  - Always sanitize input on both the client side and the server side
+  - Change the name of the user's input file to a random string so it cannot be detected.
+  - Do not use system commands such as: exec(), shell_exec(), etc.
+  
