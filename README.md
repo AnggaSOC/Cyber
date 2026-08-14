@@ -45,6 +45,6 @@ System security and awareness must always be improved. I'm interested in and alw
 - Authentication Bypass
 - IDOR Vulnerebility
 - Multi-Factor Authentication Bypass
-- 
+- Remote Code Execution
 
   <a href="https://github.com/AnggaSOC/Cyber/tree/main/Offensive%20Security"><kbd>View Detail</kbd></a>
