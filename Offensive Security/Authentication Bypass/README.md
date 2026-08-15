@@ -1,11 +1,11 @@
 # AUTHENTICATION BYPASS
 
-# Project Overview
+## PROJECT OVERVIEW
 Testing the security of authentication systems using various methods: brute force attacks, gathering user credentials, manipulating password reset features, and cookie tampering attack.
 
-# Result
+## RESULT
 
-##  Sign up feature & credential brute force
+###  Sign up feature & credential brute force
 
 **1. Looking for error messages from features**
 
@@ -25,7 +25,7 @@ Using ffuf to collect usernames using a general username list and successfully f
 
 Successfully found the passwords of 2 valid usernames using only a wordlist of frequently used passwords.
 
-## Reset Password Manipulate & Cookie Tampering
+### Reset Password Manipulate & Cookie Tampering
 
 **1. Reset password for valid username**
 Reset the password for username: robert. The system asks to enter a valid username, and we can tamper with it so that the password reset link for username: robert is sent to your email.
@@ -49,11 +49,10 @@ Successfully obtained Robert's account using a password reset manipulation metho
 
 # REPORT
 
-- ID Report : ABP-090826
+- Report ID : ABP-090826
 - Severity Level : High-Critical
 - Risk : Account theft and hijacking
 - Resource : MITRE ATT&ck T1078, T1539, T1098, T1003, T1563
-- Description : Authentication bypass testing
 - Findings :
   * Error message vulnerability: notifying that a valid username has already been registered. This gives an attacker a loophole to determine the valid username.
   * Application does not limit login error: attacker can brute force attack
