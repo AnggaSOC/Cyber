@@ -26,10 +26,9 @@ The email field was successfully injected with JavaScript to manipulate the inpu
 ## REPORT
 
 * Report ID : RFC-130826
-* Description : Penetration testing for customer support forms
-* Tools Used : Internet browser, Burp Suite
 * Severity Level : Low-Medium
 * Risk : Defaces the website and annoys users. Potential session hijacking if an attacker uses an advanced XSS attack.
+* Tools Used : Internet browser, Burp Suite
 * Findings :
   - The system has implemented defense and sanitization of some characters commonly used for injection in client-side only, but not in server-side.
   - The server side isn't sanitized, making it very easy to bypass such defenses. Once a request successfully passes the client-side check, it can be bypassed on the server side.
