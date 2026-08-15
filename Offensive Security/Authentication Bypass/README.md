@@ -52,7 +52,7 @@ Successfully obtained Robert's account using a password reset manipulation metho
 - Report ID : ABP-090826
 - Severity Level : High-Critical
 - Risk : Account theft and hijacking
-- Resource : MITRE ATT&ck T1078, T1539, T1098, T1003, T1563
+- Resource : MITRE ATT&ck T1078, T1539, T1098, T1003, T1563, OWASP Top 10: A01-Broken Access Control, A07-Authentication Failures
 - Findings :
   * Error message vulnerability: notifying that a valid username has already been registered. This gives an attacker a loophole to determine the valid username.
   * Application does not limit login error: attacker can brute force attack
