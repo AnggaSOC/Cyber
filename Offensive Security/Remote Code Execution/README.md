@@ -30,6 +30,7 @@ The system or server can be fully controlled (RCE). This vulnerability falls und
 * Severity Level : Critical
 * Risk : Remote code execution, Full control over system or server access
 * Resource : OWASP Top 10 : A02-Security Misconfiguration, A06-Insecure Design
+* Tools Used : Internet browser, Kali linux terminal
 * Findings :
   - The system accepts all user input without restrictions. As a result, users can upload files containing malicious code.
   - The system does not rename files uploaded by users. Therefore, users simply have to guess the directory where the files are stored.
