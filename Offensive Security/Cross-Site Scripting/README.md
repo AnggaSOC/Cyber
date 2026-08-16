@@ -28,6 +28,7 @@ The email field was successfully injected with JavaScript to manipulate the inpu
 * Report ID : RFC-130826
 * Severity Level : Low-Medium
 * Risk : Defaces the website and annoys users. Potential session hijacking if an attacker uses an advanced XSS attack.
+* Resource : OWASP Top 10: A05-Injection
 * Tools Used : Internet browser, Burp Suite
 * Findings :
   - The system has implemented defense and sanitization of some characters commonly used for injection in client-side only, but not in server-side.
