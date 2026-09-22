@@ -32,7 +32,12 @@ Target the most crucial table `admin_credential` and `users`
 * Report ID : SQLM-130826
 * Severity Level : High
 * Risk :  An attacker can misuse a database: create, manipulate, and even delete the victim's sensitive and important information
-* Resource : CWE-89
-* Tools Used : Sqlmap, Kali Linux Terminal
+* Resource : OWASP Top 10: A05-Injection
+* Tools Used : SQLMap, Kali Linux Terminal
 * Findings :
-* 
+  - Sqlmap was successfully used to determine the version of the MySQL database.
+  - The entire contents of the database were successfully accessed, including sensitive data (user credentials).
+* Remediation :
+  - Using Prepared Statements (Parameterized Queries)
+  - Validate Input and Use Whitelisting
+  - Principle of Least Privilege
