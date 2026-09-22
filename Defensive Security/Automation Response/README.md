@@ -21,5 +21,5 @@ Monitoring endpoints (company servers) and automatically responding to attacks. 
 | --- | --- | --- |
 | SSH login anomaly | Auto detection ssh login anomaly with email notification | https://google.com | 
 | Dos/DDos attack | Active response and blocked Dos/DDos attack with automation email alert and incident ticketing with Jira | https://youtube.com |
-| File integrity monitoring | Active response with VirusTotal for automation detection malware | https://google.com |
+
 
