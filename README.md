@@ -1,4 +1,4 @@
-# Cybersecurity Practitioner
+# Cybersecurity Analyst | SOC & Incident Response | Penetration Tester
 
 System security and awareness must always be improved. I'm interested in and always learning about cybersecurity and anything related to technology
 
