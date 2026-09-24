@@ -4,14 +4,14 @@ System security and awareness must always be improved. I'm interested in and alw
 
 # Technical Skills 
 
-**Devensive Security**
+**Defensive Security**
 - Incident Repsonse 
 - Threat Hunting
 - Security Monitoring 
 - SIEM
 - SOC Operation
 
-**Ovensive Security**
+**Offensive Security**
 - Penetration Testing
 - Red Teaming
 - Web Security
